@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\bin\Debug\laba_10.exe.config
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\bin\Debug\laba_10.exe
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\bin\Debug\laba_10.pdb
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.Form1.resources
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.exe
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.pdb
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.exe.config
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.exe
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.pdb
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.AssemblyReference.cache
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.Form1.resources
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.exe
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.pdb
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.exe.config
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.exe
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.pdb
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.AssemblyReference.cache
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.SuggestedBindingRedirects.cache
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.Form1.resources
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.exe
+D:\MyProjects\Ucheba\4kurs\2 семестр\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.pdb
